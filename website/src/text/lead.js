@@ -1,0 +1,1 @@
+export default "I'm a Data Scientist with 6+ years of experience in Academia. I specialize in Probability Theory and I have a background in Statistics. I'm looking to contribute to a team of data scientists and analysts by offering a strong theoretical perspective and years of experience in cutting edge research. "

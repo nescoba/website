@@ -1,0 +1,17 @@
+.banner{
+    background: url("./images/background.jpg");
+    height: 60vh;
+    background-size: cover;
+}
+
+#profile{
+    border-radius: 50%;
+}
+
+.banner-text{
+    font-weight: bold;
+}
+
+#about{
+    color: white;
+}
